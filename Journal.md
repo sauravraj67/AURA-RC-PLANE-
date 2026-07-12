@@ -41,6 +41,41 @@ And this is the final look of it
 
 <img width="1062" height="558" alt="Screenshot 2026-07-05 212102" src="https://github.com/user-attachments/assets/09ed9854-a8fc-49f2-9ee8-71e2f5378ad7" />
 
+## Alligning the reference /Making the Fulelage 
+hours :-  4.5 hr 
+
+I loaded up the Fusion with the reference image then I Started aligning the reference to the exact size i wanted and then moved it to axis origin .I did it for all the 3 reference with as much precision as possible and this is how the 3D reference Canvas Lo<img width="1022" height="241" alt="Screenshot 2026-07-07 094033" src="https://github.com/user-attachments/assets/737ab11d-b1d8-4ba2-b0f1-7d3a5e144f81" />ssets/6c143896-3292-4962-8e3e-9c78ffbe8cfb" />
+
+. Then I made the side view Sketch of the main body
+<img width="797" height="322" alt="Screenshot 2026-07-07 055447" src="https://github.com/user-attachments/assets/f1bfb7d8-8f83-47cd-9a76-ac02a28dc1e6" />
+
+then I made the top view of the body
+<img width="725" height="293" alt="Screenshot 2026-07-07 055929" src="https://github.com/user-attachments/assets/f0ab89da-7118-472f-8c8f-c312f97decb4" />
+
+there were few sketch allignment issue so I solved them 
+<img width="538" height="321" alt="Screenshot 2026-07-07 060032" src="https://github.com/user-attachments/assets/84464578-d763-4a2e-9ae7-d0338d159bba" />
+
+then after that I added offset plane for Rails . I  keeping in mind about the top/bottom sketch and the side sketches . In total I had to add about 19 of these offset planes and this is the look it looks
+
+<img width="918" height="557" alt="Screenshot 2026-07-07 061135" src="https://github.com/user-attachments/assets/33886e00-05fd-42ba-98d0-0298cfac3e6d" />
+then for every offset plane I had to make rail . For that I needed to project Intersect all the for guildlines then use Spline to make that rails . this is how the first rail looked liked<img width="402" height="370" alt="Screenshot 2026-07-07 061417" src="https://github.com/user-attachments/assets/49b698dd-173a-4e86-826e-b90d9ccad208" />
+
+and this was the end look after  I did it for all of the rails 
+<img width="956" height="460" alt="Screenshot 2026-07-07 082550" src="https://github.com/user-attachments/assets/69e01af7-617e-4a97-95d7-7439f5e9269b" />
+
+. It took me some times to reach here then I went to make the 3D model of the body using LOFT Feature but errors started showing up<img width="1422" height="910" alt="Screenshot 2026-07-07 082920" src="https://github.com/user-attachments/assets/fcb5c53e-d7fc-4a5d-adc8-2f6847f53f5c" />
 
 
+I Tried to fix the errors but nothing much happened So I took a decision to rebuild it again because there wasn't any outcome I am goint to receive out of this . So Again I made the skectches of top and Side view
 
+<img width="1022" height="241" alt="Screenshot 2026-07-07 094033" src="https://github.com/user-attachments/assets/b948747d-727f-4039-8f36-9569fff40f0f" />
+
+<img width="1015" height="283" alt="Screenshot 2026-07-07 094338" src="https://github.com/user-attachments/assets/91be72bb-f0f8-47ee-b984-c95571572118" />
+
+then again I went to make the model and waala this time things worked perfectly
+
+<img width="1427" height="1002" alt="Screenshot 2026-07-07 105446" src="https://github.com/user-attachments/assets/5d732a07-cd20-4f9d-9073-2a4be7d58433" />
+
+Final Fuselage look 
+
+<img width="1133" height="658" alt="Screenshot 2026-07-07 105613" src="https://github.com/user-attachments/assets/ab95ac76-b494-4611-815e-691fd704a7c2" />
