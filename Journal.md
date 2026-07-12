@@ -100,7 +100,40 @@ then I added stabalizers to the end of the wings and this is the final look
 
 <img width="513" height="431" alt="Screenshot 2026-07-07 221452" src="https://github.com/user-attachments/assets/1ca2eb3f-c3d2-4036-9ec6-ad7755bd53a4" />
 
+then I made cuts for mobility and component fixing 
 
+<img width="887" height="635" alt="Screenshot 2026-07-07 225535" src="https://github.com/user-attachments/assets/638331bf-bdd9-48e5-b5ff-26f8ad0b4f80" />
+<img width="865" height="646" alt="Screenshot 2026-07-07 225521" src="https://github.com/user-attachments/assets/e234a617-b025-4918-9342-f69ecface59b" />
+
+## Finilized the CAD
+hours :-  4.2 hr 
+
+First I made the Surface to which I will attach the motors<img width="743" height="765" alt="Screenshot 2026-07-08 154108" src="https://github.com/user-attachments/assets/d03b5d0e-c8e8-4205-a1d8-fcd1d8ce4d72" />
+
+
+then I added the rest of the eternal components like the Flight controller , Battery ,Receiver and ESC
+
+<img width="772" height="677" alt="Screenshot 2026-07-08 155047" src="https://github.com/user-attachments/assets/890d234c-f414-46f5-9a9c-37c8da878aeb" />
+
+<img width="806" height="632" alt="Screenshot 2026-07-08 155057" src="https://github.com/user-attachments/assets/e337b517-80c9-4e9d-b468-65f25975fedb" />
+
+that I added the servos to there respective position
+
+Then I made respective cut's and fix for the servoes and the Brushless motors using sketch and offset plane tools 
+
+<img width="820" height="342" alt="Screenshot 2026-07-08 155750" src="https://github.com/user-attachments/assets/90ee8bce-1a67-4f25-aef7-266e91ddb405" />
+<img width="415" height="422" alt="Screenshot 2026-07-08 160148" src="https://github.com/user-attachments/assets/471994d0-6b9e-4a12-8c6b-946586127c62" />
+
+
+<img width="697" height="697" alt="Screenshot 2026-07-08 160835" src="https://github.com/user-attachments/assets/a32399ae-bf4b-40f8-ace0-d0e714ff13f0" />
+<img width="787" height="735" alt="Screenshot 2026-07-08 160402" src="https://github.com/user-attachments/assets/2aae05d4-cbcd-49be-a1ff-6886fa97bbdb" />
+<img width="887" height="687" alt="Screenshot 2026-07-08 161004" src="https://github.com/user-attachments/assets/67ace7ea-8921-4b18-b5d9-dce8a3d79333" />
+
+
+So this is the final polished LOOK
+
+
+<img width="742" height="680" alt="Screenshot 2026-07-08 161159" src="https://github.com/user-attachments/assets/2c4b366f-94a3-48e2-9fac-514d196767ad" />
 
 
 
