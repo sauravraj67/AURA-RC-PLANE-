@@ -16,4 +16,31 @@ So Now I started with the components placement . I First updated the PCB editor 
 ## Routing the Fligh Controller 
 hours :- 5.75 hr 
 
-So I started with routing I initiated with the Data line connections , A connection hole was coming onto the path so for now I deleted it then I didn't specifically named the connection with _D+ and _D- without it kicad would do a differential pair , So I update the schematics then I made the differential pair for data lines. then I left the GND and 3.3V connections as I will use fil-zone on top layer for power and GND for bottom layer for stability. I used thicj traces for the 5V and 12V connections and I started making routs for the whole board one by one first I made the components circuit for sensors , routed the oscillator  to MCU then I started routing the 5v and 12v lines started routing the decoupling capacitors . I used vias where it was needed , made sure that the routs are clean and simple . I also had to made few changes on the PCB rout So that I can easily rout then I added 3.3V fillzone on top layer and GND fill zone to bottom layer and there were few miss connections , So I started solving them and then I used the Rules checker for any errors . I solved the major issues like  miss-Connections and rout near vias and holes  and left the basic the silkscreen ones. Then I added a text logo for the PCB and stared adding text for the naming the outpins and there connections . And this is the final looks of the PCB 
+So I started with routing I initiated with the Data line connections , A connection hole was coming onto the path so for now I deleted it then I didn't specifically named the connection with _D+ and _D- without it kicad would do a differential pair , So I update the schematics then I made the differential pair for data lines. then I left the GND and 3.3V connections as I will use fil-zone on top layer for power and GND for bottom layer for stability. I used thicj traces for the 5V and 12V connections and I started making routs for the whole board one by one first I made the components circuit for sensors , routed the oscillator  to MCU then I started routing the 5v and 12v lines started routing the decoupling capacitors . I used vias where it was needed , made sure that the routs are clean and simple . I also had to made few changes on the PCB rout So that I can easily rout then I added 3.3V fillzone on top layer and GND fill zone to bottom layer and there were few miss connections , So I started solving them and then I used the Rules checker for any errors . I solved the major issues like  miss-Connections and rout near vias and holes  and left the basic the silkscreen ones. Then I added a text logo for the PCB and stared adding text for the naming the outpins and there connections . And this is the final looks of the Flight Controller PCB 
+
+TOP Layer 
+
+<img width="1092" height="538" alt="Screenshot 2026-07-13 003331" src="https://github.com/user-attachments/assets/d845d9bf-0a2e-42b0-9c08-b509ff6b9717" />
+
+Bottom Layer 
+
+<img width="1120" height="557" alt="Screenshot 2026-07-13 003340" src="https://github.com/user-attachments/assets/03fa0a7d-afb5-4a6e-8514-33faf5ef87ce" />
+
+3D View 
+
+<img width="898" height="560" alt="Screenshot 2026-07-13 001310" src="https://github.com/user-attachments/assets/18c947ec-78c6-49ed-b4de-eecb539a39a4" />
+
+## Finalizing The Concept Design
+hours :-  2.8 hr 
+
+So Now I went and finalized the concept design . As I already Said before It will be a Tailless Twin motor RC Plane. So I kept that in mind and went and researched about that concept . After considering multiple design . I ended up liking one design then I selected a air-foil that would suit it and generated a reference design with TOP , FRONT and SIDE View of the plane with dimensions also with the Air-Foil. The Air-Foil I selected was MH-45 reflex . It is a 9.85%-thick reflex airfoil designed by Martin Hepperle specifically for flying wings and tailless model aircraft. So I added it as per my Design requirements. The Body Base is heavily inspired by
+* Blended Wing-Body
+* Sweepback Stability
+* Integrated Twin Nacelles
+And this is the final look of it
+
+<img width="1062" height="558" alt="Screenshot 2026-07-05 212102" src="https://github.com/user-attachments/assets/09ed9854-a8fc-49f2-9ee8-71e2f5378ad7" />
+
+
+
+
