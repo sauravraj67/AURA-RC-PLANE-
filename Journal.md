@@ -41,8 +41,8 @@ And this is the final look of it
 
 <img width="1062" height="558" alt="Screenshot 2026-07-05 212102" src="https://github.com/user-attachments/assets/09ed9854-a8fc-49f2-9ee8-71e2f5378ad7" />
 
-## Alligning the reference /Making the Fulelage 
-hours :-  4.5 hr 
+## Alligning the reference /Made the Fulelage 
+hours :-  6.7 hr 
 
 I loaded up the Fusion with the reference image then I Started aligning the reference to the exact size i wanted and then moved it to axis origin .I did it for all the 3 reference with as much precision as possible and this is how the 3D reference Canvas Lo<img width="1022" height="241" alt="Screenshot 2026-07-07 094033" src="https://github.com/user-attachments/assets/737ab11d-b1d8-4ba2-b0f1-7d3a5e144f81" />ssets/6c143896-3292-4962-8e3e-9c78ffbe8cfb" />
 
@@ -79,3 +79,28 @@ then again I went to make the model and waala this time things worked perfectly
 Final Fuselage look 
 
 <img width="1133" height="658" alt="Screenshot 2026-07-07 105613" src="https://github.com/user-attachments/assets/ab95ac76-b494-4611-815e-691fd704a7c2" />
+
+## Made the Wings 
+hours :-  3.4 hr 
+
+So I made the airfoil first
+
+<img width="1007" height="307" alt="Screenshot 2026-07-07 192831" src="https://github.com/user-attachments/assets/a50a1672-e8b5-4d22-888b-afec485f50d2" />
+then I aligned it to the fuselage
+<img width="851" height="192" alt="Screenshot 2026-07-07 193133" src="https://github.com/user-attachments/assets/ce8036d4-7e03-4cbc-af3e-8a530c977b39" />
+fter that I made the guild sketch's of the wing<img width="711" height="530" alt="Screenshot 2026-07-07 194714" src="https://github.com/user-attachments/assets/bbc26dd9-f74a-4794-b1c6-3370bded8e89" />
+hen I made the 3D model of the wing
+
+then I extruded it and repeated the same for the other Side and this is how it looks 
+
+<img width="838" height="635" alt="Screenshot 2026-07-07 202218" src="https://github.com/user-attachments/assets/41b11748-7813-4165-ac29-1dd15e63e4fb" />
+<img width="888" height="732" alt="Screenshot 2026-07-07 202341" src="https://github.com/user-attachments/assets/232549b4-367a-40fc-99a1-4ea6636c9650" />
+
+then I added stabalizers to the end of the wings and this is the final look 
+
+<img width="513" height="431" alt="Screenshot 2026-07-07 221452" src="https://github.com/user-attachments/assets/1ca2eb3f-c3d2-4036-9ec6-ad7755bd53a4" />
+
+
+
+
+
