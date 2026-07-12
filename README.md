@@ -29,6 +29,25 @@ I made a custom Tailless twin motor RC Plane with custom Flight Controller (base
 <img width="763" height="535" alt="618795488-89bd397e-2dfa-4107-a2a6-26ff834b6018" src="https://github.com/user-attachments/assets/014e0bc6-9ccd-4755-b335-d36e4c0a481a" />
 <img width="1052" height="495" alt="618795522-03c98845-beb9-4136-b775-faca25e47061" src="https://github.com/user-attachments/assets/907c6d4a-d1b4-4f36-add0-31c8fd9ab021" />
 
+## 📦 Bill of Materials
 
+| Item | Quantity | Unit Price (USD) | Total Price (USD) | Source |
+|------|:--------:|-----------------:|------------------:|--------|
+| PCB + PCBA | 1 | $154.46 | $140.56 | https://jlcpcb.com |
+| PCB Shipping | 1 | $17.32 | $23.24 | https://jlcpcb.com |
+| Brushless Motor | 2 | $15.20 | $30.40 | https://robu.in/product/r2207-2207-2450kv-ccw-fpv-brushless-motor/ |
+| ESC | 2 | $8.91 | $17.82 | https://robocraze.com/products/simplifly-esc-30a-2s-6s-for-bldc-motors-with-d-shot-oneshot125 |
+| Receiver / Transmitter | 1 | $62.00 | $62.00 |https://robocraze.com/products/fly-sky-fs-i6x-2-4ghz-6ch-afhds-2a-rc-transmitter-with-fs-ia10b-2-4ghz-10ch-receiver?_pos=6&_sid=c7af4b55f&_ss=r |
+| 12V Battery | 1 | $5.78 | $5.78 | https://robocraze.com/products/11-1v-2200mah-li-ion-battery?_pos=18&_sid=25292ddd5&_ss=r |
+| SG90 Servo | 2 | $0.96 | $1.92 | https://robocraze.com/products/sg90-micro-servo-motor?_pos=1&_sid=88e48e080&_ss=r |
+| 3D Printed Plane | 1 | $41.86 | $41.86 | https://zbotic.in |
+
+
+
+## 💰 Cost Summary
+
+| Category | Amount (USD) |
+|----------|-------------:|
+| Total Component Cost | **$323.58** |
 
 
