@@ -135,5 +135,14 @@ So this is the final polished LOOK
 
 <img width="742" height="680" alt="Screenshot 2026-07-08 161159" src="https://github.com/user-attachments/assets/2c4b366f-94a3-48e2-9fac-514d196767ad" />
 
+## Made the firmware
+hours :-  3.2  hr 
 
+So I made a main firmware that Supercharges the Brain and then Wakes up the sensors and takes reading from them with calibration. the 200 Hz Flight Loop Reading and Fuse the data from the sensors from (IMU's and Barometer ) . Calculates acceleration ,gravity Wing speed . Then Use PID Stabilization . then reads the reading from the receiver and Controllers the Servos and ESC's accordingly as per the Input.
+
+<img width="1053" height="1042" alt="Screenshot 2026-07-08 164404" src="https://github.com/user-attachments/assets/220f9bba-b265-42ce-9d4b-e41bc861b163" />
+
+
+
+AND WITH THAT THE PROJECT COMES TO AN END !!!
 
