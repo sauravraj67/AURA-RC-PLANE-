@@ -26,8 +26,9 @@ I made a custom Tailless twin motor RC Plane with custom Flight Controller (base
 ### 3D Design
 
 <img width="742" height="680" alt="Screenshot 2026-07-08 161159" src="https://github.com/user-attachments/assets/10f96d59-7b1e-41ed-a45f-dd660a7cde86" />
-<img width="1053" height="1042" alt="Screenshot 2026-07-08 164404" src="https://github.com/user-attachments/assets/0984f5be-dccf-437d-8bff-acfc4adcc47c" />
-<img width="742" height="680" alt="Screenshot 2026-07-08 161159" src="https://github.com/user-attachments/assets/15d56525-b314-4348-85e2-debeae8ae96a" />
+<img width="763" height="535" alt="618795488-89bd397e-2dfa-4107-a2a6-26ff834b6018" src="https://github.com/user-attachments/assets/014e0bc6-9ccd-4755-b335-d36e4c0a481a" />
+<img width="1052" height="495" alt="618795522-03c98845-beb9-4136-b775-faca25e47061" src="https://github.com/user-attachments/assets/907c6d4a-d1b4-4f36-add0-31c8fd9ab021" />
+
 
 
 
