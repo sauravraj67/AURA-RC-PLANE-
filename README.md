@@ -40,7 +40,7 @@ I made a custom Tailless twin motor RC Plane with custom Flight Controller (base
 | Receiver / Transmitter | 1 | $62.00 | $62.00 |https://robocraze.com/products/fly-sky-fs-i6x-2-4ghz-6ch-afhds-2a-rc-transmitter-with-fs-ia10b-2-4ghz-10ch-receiver?_pos=6&_sid=c7af4b55f&_ss=r |
 | 12V Battery | 1 | $5.78 | $5.78 | https://robocraze.com/products/11-1v-2200mah-li-ion-battery?_pos=18&_sid=25292ddd5&_ss=r |
 | SG90 Servo | 2 | $0.96 | $1.92 | https://robocraze.com/products/sg90-micro-servo-motor?_pos=1&_sid=88e48e080&_ss=r |
-| 3D Printed Plane | 1 | $41.86 | $41.86 | https://zbotic.in |
+| 3D Printed Plane | 1 | $0 | $0 | #Printing-legion |
 
 
 
@@ -48,6 +48,6 @@ I made a custom Tailless twin motor RC Plane with custom Flight Controller (base
 
 | Category | Amount (USD) |
 |----------|-------------:|
-| Total Component Cost | **$323.58** |
+| Total Component Cost | **$283.58** |
 
 
